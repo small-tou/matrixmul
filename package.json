@@ -1,0 +1,16 @@
+{
+    "name":"matrixmul",
+    "description":"矩阵相乘",
+    "version":"0.9.0",
+    "keywords":"matrix javascript",
+    "contributors":[{
+        "name": "yutou",
+        "email": "xinyu198736@gmail.com"
+    }],
+    "licenses": [{
+        "type": "GPLv2",
+        "url": "http://www.example.com/licenses/gpl.html"
+    }],
+    "repositories":"https://github.com/xinyu198736/matrix",
+    "dependencies":[]
+}
